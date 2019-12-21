@@ -1,5 +1,12 @@
 ## 2019 Credit Suisse Global Coding Challenge
-This project contains the implementations of the functions for the six questions in 2019 Credit Suisse Global Coding Challenge. The files used for auto-running and checking the codes are not included.
+This project contains the implementations of the functions for the six questions in 2019 Credit Suisse Global Coding Challenge (Oct 2nd - 23rd). The files used for auto-running and checking the codes are not included.
+
+---
+### Results:
+Fifth place among United States Individual Leaderboard  
+![Individual Leaderboard](./Results/Indiviual_Leaderboard.jpg)
+
+![Individual Leaderboard](./Results/Rochester_Leaderboard.jpg)
 
 ---
 ### Question 1 – Mortgage Repayments
